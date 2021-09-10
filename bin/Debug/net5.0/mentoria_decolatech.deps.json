@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "mentoria_decolatech/1.0.0": {
+        "runtime": {
+          "mentoria_decolatech.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mentoria_decolatech/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
